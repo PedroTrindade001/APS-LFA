@@ -7,7 +7,7 @@ import java.util.Stack;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class AutomatoValidator {
+public class Automato {
     static ValidarExpressaoService validator = new ValidarExpressaoService();
 
     public static void main(String[] args) throws Exception {
@@ -112,4 +112,3 @@ public class AutomatoValidator {
         return valores.pop();
     }
 }
-

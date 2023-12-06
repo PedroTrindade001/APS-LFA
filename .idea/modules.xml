@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/regex.iml" filepath="$PROJECT_DIR$/regex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/APS-LFA.iml" filepath="$PROJECT_DIR$/APS-LFA.iml" />
     </modules>
   </component>
 </project>
